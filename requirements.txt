@@ -1,0 +1,8 @@
+numpy
+tensorflow
+tensorflow-io
+tensorflow-addons
+matplotlib
+pylint
+yapf
+keras-flops

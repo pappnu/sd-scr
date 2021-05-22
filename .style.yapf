@@ -1,0 +1,10 @@
+[style]
+based_on_style = facebook
+indent_width = 4
+column_limit = 70
+ALLOW_SPLIT_BEFORE_DICT_VALUE = false
+ALLOW_MULTILINE_DICTIONARY_KEYS = true
+INDENT_CLOSING_BRACKETS: false
+DEDENT_CLOSING_BRACKETS: true
+INDENT_DICTIONARY_VALUE: true
+COALESCE_BRACKETS = true
